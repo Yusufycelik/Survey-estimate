@@ -1,0 +1,208 @@
+Yeni deneyimler yasamaktan hoslanir misiniz?,Sinirlarinizi zorlamaktan hoslanir misiniz?,"Sinirlarinizi zorladiginizda, genellikle hissettiginiz duygu hangisine daha yakindir?",Finansal yatirimlar veya is firsatlari konusunda risk almaktan kaciniyor musunuz?,Yeni yerler kesfetmek veya seyahat etmek size heyecan verir mi?,onemli bir karar almadan once genellikle ne yaparsiniz?,"Gercekten ilginizi ceken bir firsatla karsilastiginizda, genellikle nasil bir tepki verirsiniz?",belirsizlik veya degisimle nasil basa cikarsiniz?,"Diger insanlarin risk alma davranislarini gozlemlediginizde, genellikle ne dusunursunuz?",Risk alma egilimi acisindan kendinizi nasil degerlendirirsiniz?
+0,1,0,1,0,2,1,0,0,Risk almaktan hoslanan
+0,1,0,2,0,0,0,0,0,Risk almaktan hoslanan
+0,0,0,2,0,0,1,1,1,Risk almaktan hoslanan
+0,0,0,0,0,1,0,1,1,Riskten kacinan
+1,1,0,1,0,2,1,1,1,Riskten kacinan
+1,1,2,1,0,0,2,1,0,Riskten kacinan
+0,0,3,1,2,0,1,1,3,Riskten kacinan
+0,0,0,1,0,3,1,0,3,Risk almaktan hoslanan
+0,0,2,1,0,0,1,1,0,Risk almaktan hoslanan
+1,2,1,1,0,0,1,1,3,Riskten kacinan
+0,1,0,1,0,0,1,1,0,Risk almaktan hoslanan
+1,2,1,1,0,2,2,1,2,Riskten kacinan
+0,1,1,1,0,2,1,2,1,Riskten kacinan
+1,1,2,1,0,0,2,1,3,Riskten kacinan
+0,0,0,0,0,2,1,1,0,Risk almaktan hoslanan
+0,1,0,1,0,0,0,0,3,Risk almaktan hoslanan
+0,0,0,1,0,2,2,2,1,Riskten kacinan
+0,0,0,0,0,2,1,1,0,Risk almaktan hoslanan
+1,2,1,2,2,1,2,2,0,Riskten kacinan
+0,0,0,2,0,1,1,1,3,Risk almaktan hoslanan
+0,0,0,1,0,2,1,0,3,Risk almaktan hoslanan
+1,1,0,1,0,0,1,0,3,Riskten kacinan
+0,0,3,2,0,2,0,1,0,Risk almaktan hoslanan
+0,1,1,0,0,0,1,1,2,Riskten kacinan
+0,0,0,1,0,0,1,1,1,Risk almaktan hoslanan
+0,0,0,1,0,2,1,1,1,Risk almaktan hoslanan
+0,1,1,1,0,2,2,1,0,Riskten kacinan
+0,1,2,2,0,2,0,1,0,Risk almaktan hoslanan
+0,0,0,0,0,0,0,1,0,Riskten kacinan
+0,1,0,1,0,2,1,0,3,Risk almaktan hoslanan
+2,0,3,2,2,0,2,0,3,Risk almaktan hoslanan
+2,2,3,0,1,2,3,1,2,Risk almaktan hoslanan
+0,1,1,1,1,2,2,0,0,Risk almaktan hoslanan
+2,2,0,0,2,0,1,2,0,Risk almaktan hoslanan
+1,0,2,1,0,0,1,2,1,Riskten kacinan
+1,1,1,1,0,0,2,1,1,Riskten kacinan
+1,1,1,1,0,0,1,1,3,Riskten kacinan
+1,2,1,0,0,3,2,2,3,Riskten kacinan
+1,2,1,0,2,1,2,2,1,Riskten kacinan
+0,0,3,1,0,2,1,1,1,Riskten kacinan
+0,2,0,2,0,2,1,1,0,Risk almaktan hoslanan
+0,1,2,1,1,0,1,0,3,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,1,Risk almaktan hoslanan
+1,1,1,0,0,1,2,1,0,Riskten kacinan
+0,1,0,1,0,0,1,0,0,Riskten kacinan
+0,0,0,1,0,0,2,1,3,Risk almaktan hoslanan
+0,0,3,1,1,0,1,1,1,Riskten kacinan
+1,1,1,1,2,0,1,1,0,Riskten kacinan
+0,0,0,1,0,2,1,1,1,Risk almaktan hoslanan
+0,1,0,2,0,2,1,1,0,Risk almaktan hoslanan
+0,0,0,1,0,2,1,1,1,Risk almaktan hoslanan
+0,1,0,1,0,0,1,1,3,Riskten kacinan
+0,0,0,1,0,0,1,0,3,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,3,Risk almaktan hoslanan
+1,0,0,0,1,0,1,1,1,Riskten kacinan
+0,1,0,1,0,0,0,1,0,Riskten kacinan
+0,0,2,2,1,0,1,1,0,Risk almaktan hoslanan
+1,0,0,1,1,0,1,0,1,Riskten kacinan
+0,0,2,0,1,0,1,0,0,Riskten kacinan
+1,1,3,1,1,2,1,1,1,Riskten kacinan
+1,1,2,0,1,0,1,1,3,Riskten kacinan
+0,1,3,0,1,0,1,1,0,Risk almaktan hoslanan
+1,0,3,1,0,0,1,1,1,Riskten kacinan
+0,1,0,1,0,0,1,1,1,Risk almaktan hoslanan
+1,1,2,1,0,0,1,1,3,Riskten kacinan
+0,0,0,1,0,0,1,1,3,Risk almaktan hoslanan
+0,1,0,1,0,0,1,0,1,Riskten kacinan
+0,1,0,1,1,0,1,0,1,Risk almaktan hoslanan
+0,0,0,2,0,0,1,1,3,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,0,Risk almaktan hoslanan
+0,0,0,1,1,0,0,0,0,Risk almaktan hoslanan
+0,0,2,1,0,0,0,0,3,Risk almaktan hoslanan
+0,0,0,1,0,1,2,1,0,Risk almaktan hoslanan
+0,1,0,0,0,0,1,1,1,Risk almaktan hoslanan
+2,1,2,1,2,3,3,2,3,Riskten kacinan
+0,0,3,1,0,0,0,0,0,Risk almaktan hoslanan
+1,1,1,1,1,0,2,1,3,Riskten kacinan
+0,1,0,1,0,0,1,1,1,Risk almaktan hoslanan
+0,1,1,2,0,0,1,1,0,Riskten kacinan
+1,1,0,1,0,0,1,1,1,Risk almaktan hoslanan
+0,0,0,0,0,0,1,1,0,Riskten kacinan
+0,1,0,1,0,0,0,1,0,Risk almaktan hoslanan
+0,0,0,1,0,2,0,0,3,Risk almaktan hoslanan
+0,0,3,0,0,0,2,1,0,Riskten kacinan
+0,1,1,1,0,2,2,2,1,Riskten kacinan
+0,1,0,1,0,2,1,1,0,Riskten kacinan
+0,0,2,1,1,0,2,1,1,Riskten kacinan
+0,0,3,1,2,3,1,0,1,Risk almaktan hoslanan
+0,0,0,0,0,2,0,1,0,Risk almaktan hoslanan
+0,0,0,1,0,3,0,0,2,Risk almaktan hoslanan
+1,0,2,1,0,1,1,1,1,Risk almaktan hoslanan
+1,1,0,1,0,3,2,0,1,Risk almaktan hoslanan
+0,0,0,1,1,0,1,1,0,Risk almaktan hoslanan
+0,0,3,2,0,2,1,1,1,Risk almaktan hoslanan
+0,1,2,1,0,0,1,1,3,Risk almaktan hoslanan
+0,1,1,1,0,2,2,1,0,Riskten kacinan
+0,0,1,1,1,2,0,0,1,Risk almaktan hoslanan
+0,0,0,1,0,3,1,0,3,Risk almaktan hoslanan
+0,0,0,2,0,3,0,1,0,Risk almaktan hoslanan
+1,1,1,1,0,0,1,1,0,Riskten kacinan
+0,0,0,1,0,0,2,1,0,Risk almaktan hoslanan
+0,0,1,0,1,3,2,1,0,Riskten kacinan
+1,1,0,1,0,0,1,1,0,Riskten kacinan
+1,0,0,1,0,0,0,1,1,Risk almaktan hoslanan
+0,1,2,1,0,0,0,0,0,Riskten kacinan
+0,1,3,1,0,0,1,1,1,Risk almaktan hoslanan
+0,0,0,1,0,0,1,0,3,Risk almaktan hoslanan
+0,0,0,2,0,0,1,0,1,Risk almaktan hoslanan
+0,0,2,2,0,0,1,1,3,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,1,Riskten kacinan
+0,1,0,0,0,0,1,1,1,Riskten kacinan
+2,1,1,0,2,3,3,2,1,Riskten kacinan
+0,0,3,1,0,0,1,1,1,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,0,Risk almaktan hoslanan
+1,1,0,1,1,0,0,1,1,Risk almaktan hoslanan
+0,1,0,1,0,0,1,1,1,Risk almaktan hoslanan
+0,1,0,1,0,0,2,1,1,Riskten kacinan
+0,0,0,0,0,0,1,1,0,Riskten kacinan
+0,0,0,1,0,0,1,0,3,Risk almaktan hoslanan
+0,1,0,0,0,0,1,1,0,Risk almaktan hoslanan
+0,1,0,1,0,0,1,1,1,Riskten kacinan
+1,1,1,1,0,0,0,1,1,Riskten kacinan
+0,0,0,1,0,3,2,0,0,Riskten kacinan
+1,1,3,0,1,3,2,0,3,Risk almaktan hoslanan
+1,1,0,1,1,0,1,1,1,Riskten kacinan
+1,1,2,1,1,0,1,1,1,Riskten kacinan
+1,2,0,1,2,3,0,0,0,Risk almaktan hoslanan
+0,0,0,1,0,0,1,0,3,Risk almaktan hoslanan
+0,1,3,1,0,0,1,1,3,Riskten kacinan
+1,0,1,0,0,1,2,2,1,Riskten kacinan
+1,1,1,0,0,2,1,1,1,Riskten kacinan
+1,2,1,1,0,2,1,1,3,Riskten kacinan
+0,1,1,0,0,0,1,1,0,Riskten kacinan
+1,2,1,1,1,1,2,2,2,Riskten kacinan
+0,1,2,1,0,0,0,1,2,Riskten kacinan
+0,1,0,1,0,1,1,0,1,Risk almaktan hoslanan
+0,1,0,1,0,0,1,0,0,Riskten kacinan
+0,0,3,0,0,0,0,1,0,Riskten kacinan
+0,0,3,0,0,2,1,1,1,Riskten kacinan
+0,0,3,1,0,0,1,1,1,Riskten kacinan
+0,0,3,0,0,3,0,1,0,Risk almaktan hoslanan
+2,0,0,1,2,0,1,2,3,Riskten kacinan
+0,1,0,0,1,2,1,1,0,Riskten kacinan
+1,1,0,0,2,0,2,1,0,Riskten kacinan
+0,1,0,1,0,2,1,1,3,Riskten kacinan
+0,1,1,2,0,0,1,0,3,Risk almaktan hoslanan
+0,0,0,1,0,0,1,0,0,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,0,Riskten kacinan
+1,1,1,2,1,1,1,1,1,Riskten kacinan
+0,1,0,0,0,2,1,1,0,Risk almaktan hoslanan
+0,0,0,1,0,0,0,0,1,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,1,Risk almaktan hoslanan
+0,0,2,1,0,1,1,1,1,Riskten kacinan
+1,1,3,2,0,0,1,0,1,Risk almaktan hoslanan
+2,2,1,0,2,2,2,2,0,Riskten kacinan
+0,0,3,1,0,0,1,1,0,Riskten kacinan
+0,2,0,2,0,1,0,1,0,Risk almaktan hoslanan
+1,1,0,0,0,0,1,1,0,Riskten kacinan
+0,1,3,1,0,0,1,2,3,Riskten kacinan
+0,1,0,1,0,0,1,1,1,Riskten kacinan
+0,1,3,2,1,3,1,1,0,Risk almaktan hoslanan
+0,0,2,1,0,0,1,1,2,Riskten kacinan
+1,1,2,1,0,0,2,0,1,Risk almaktan hoslanan
+1,0,3,0,1,2,0,0,1,Risk almaktan hoslanan
+1,1,0,0,1,0,1,0,3,Riskten kacinan
+0,0,1,0,0,0,2,0,0,Riskten kacinan
+0,0,3,0,0,2,1,0,0,Risk almaktan hoslanan
+1,2,1,0,0,2,1,0,2,Riskten kacinan
+0,0,3,1,0,0,1,0,3,Risk almaktan hoslanan
+0,1,0,2,0,2,1,1,3,Risk almaktan hoslanan
+0,1,0,1,0,0,1,1,1,Riskten kacinan
+0,0,0,1,0,0,0,1,1,Risk almaktan hoslanan
+0,0,0,1,0,3,1,0,0,Risk almaktan hoslanan
+1,1,0,1,0,0,0,1,3,Risk almaktan hoslanan
+0,1,0,1,0,2,1,1,0,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,0,Risk almaktan hoslanan
+0,0,0,1,0,2,1,1,0,Risk almaktan hoslanan
+1,1,2,1,0,0,1,1,1,Riskten kacinan
+0,1,3,0,0,0,1,1,3,Risk almaktan hoslanan
+0,0,0,1,0,0,1,1,1,Risk almaktan hoslanan
+0,1,1,1,0,0,1,1,0,Risk almaktan hoslanan
+0,0,3,0,0,3,1,1,1,Riskten kacinan
+0,0,0,0,0,0,1,1,3,Risk almaktan hoslanan
+0,1,1,1,0,3,1,2,0,Risk almaktan hoslanan
+0,0,3,1,0,3,1,1,1,Risk almaktan hoslanan
+1,1,2,0,0,0,2,1,1,Riskten kacinan
+0,2,2,1,0,2,1,2,1,Riskten kacinan
+1,1,2,1,0,2,1,1,1,Riskten kacinan
+0,1,1,1,0,0,0,2,0,Riskten kacinan
+0,1,0,1,0,2,2,1,0,Riskten kacinan
+0,1,1,1,0,0,1,2,1,Riskten kacinan
+0,0,3,1,0,0,1,1,1,Risk almaktan hoslanan
+1,1,0,0,0,2,2,2,0,Riskten kacinan
+0,0,3,2,0,3,0,1,1,Risk almaktan hoslanan
+0,1,3,2,1,3,2,0,3,Risk almaktan hoslanan
+0,1,3,1,0,0,2,1,3,Riskten kacinan
+0,0,0,1,0,0,1,1,3,Risk almaktan hoslanan
+2,2,3,0,1,2,2,2,0,Riskten kacinan
+0,0,0,1,0,0,1,0,1,Risk almaktan hoslanan
+0,1,0,2,0,2,1,1,1,Risk almaktan hoslanan
+2,1,1,1,0,3,2,0,1,Riskten kacinan
+0,0,0,0,1,2,1,0,0,Riskten kacinan
+1,1,0,2,2,0,1,1,1,Risk almaktan hoslanan
+1,1,1,0,0,2,1,1,1,Riskten kacinan
+1,1,0,0,1,0,1,1,1,Riskten kacinan
+0,0,0,1,0,3,0,1,1,Risk almaktan hoslanan
+0,0,0,1,0,0,1,0,3,Riskten kacinan
